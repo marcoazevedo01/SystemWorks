@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/10/22 22:03:16.520.pas,C:\Users\marco\Documents\RAD Studio\Projects\ProjetoTcc\Unit1.pas=C:\Users\marco\Documents\RAD Studio\Projects\ProjetoTcc\View\Vendedor\TelaEscolhaRelatorioCliente.pas</Transaction>
+    <Transaction>2015/10/22 22:03:16.520.dfm,C:\Users\marco\Documents\RAD Studio\Projects\ProjetoTcc\Unit1.dfm=C:\Users\marco\Documents\RAD Studio\Projects\ProjetoTcc\View\Vendedor\TelaEscolhaRelatorioCliente.dfm</Transaction>
+    <Transaction>2015/10/27 07:55:35.991.pas,C:\Users\marco\Documents\RAD Studio\Projects\ProjetoTcc\Unit1.pas=C:\Users\marco\Documents\RAD Studio\Projects\ProjetoTcc\View\Gerente\TelaEscolhaRelatorioFuncionario.pas</Transaction>
+    <Transaction>2015/10/27 07:55:35.991.dfm,C:\Users\marco\Documents\RAD Studio\Projects\ProjetoTcc\Unit1.dfm=C:\Users\marco\Documents\RAD Studio\Projects\ProjetoTcc\View\Gerente\TelaEscolhaRelatorioFuncionario.dfm</Transaction>
+    <Transaction>2015/10/28 14:16:21.612.pas,C:\Users\marco\Documents\RAD Studio\Projects\ProjetoTcc\Unit1.pas=C:\Users\marco\Documents\RAD Studio\Projects\ProjetoTcc\View\Almoxarife\TelaBuscarEntrada.pas</Transaction>
+    <Transaction>2015/10/28 14:16:21.612.dfm,C:\Users\marco\Documents\RAD Studio\Projects\ProjetoTcc\Unit1.dfm=C:\Users\marco\Documents\RAD Studio\Projects\ProjetoTcc\View\Almoxarife\TelaBuscarEntrada.dfm</Transaction>
+    <Transaction>2015/10/29 15:20:40.874.pas,C:\Users\marco\Documents\RAD Studio\Projects\ProjetoTcc\Unit1.pas=C:\Users\marco\Documents\RAD Studio\Projects\ProjetoTcc\View\Almoxarife\TelaBuscarSaida.pas</Transaction>
+    <Transaction>2015/10/29 15:20:40.874.dfm,C:\Users\marco\Documents\RAD Studio\Projects\ProjetoTcc\Unit1.dfm=C:\Users\marco\Documents\RAD Studio\Projects\ProjetoTcc\View\Almoxarife\TelaBuscarSaida.dfm</Transaction>
+    <Transaction>2015/10/30 14:54:10.877.pas,C:\Users\marco\Documents\RAD Studio\Projects\ProjetoTcc\Unit1.pas=C:\Users\marco\Documents\RAD Studio\Projects\ProjetoTcc\View\Gerente\TelaEscolhaRelatorioFornecedor.pas</Transaction>
+    <Transaction>2015/10/30 14:54:10.877.dfm,C:\Users\marco\Documents\RAD Studio\Projects\ProjetoTcc\Unit1.dfm=C:\Users\marco\Documents\RAD Studio\Projects\ProjetoTcc\View\Gerente\TelaEscolhaRelatorioFornecedor.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
